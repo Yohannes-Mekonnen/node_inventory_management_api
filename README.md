@@ -13,7 +13,7 @@ End points:
     request values: 
     {
      "quantity": 'number',
-     "expirty": 'unix time'
+     "expiry": 'unix time'
     }
  - 'host':3000/:item/sell
    request values: 
